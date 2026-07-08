@@ -1,0 +1,165 @@
+# 141. Linked List Cycle
+
+## Problem Statement
+
+Given the `head` of a singly linked list, determine whether the linked list contains a **cycle**.
+
+A cycle exists if a node in the linked list can be reached again by continuously following the `next` pointers. Internally, `pos` represents the index of the node that the tail points to. **`pos` is only used to describe the test case and is not provided as an input.**
+
+Return:
+
+- `true` if the linked list contains a cycle.
+- `false` otherwise.
+
+---
+
+## Examples
+
+### Example 1
+
+**Input**
+```text
+head = [3,2,0,-4], pos = 1
+```
+
+**Output**
+```text
+true
+```
+
+**Explanation**
+
+```
+3 → 2 → 0 → -4
+    ↑         │
+    └─────────┘
+```
+
+The tail connects back to the node at index `1`, creating a cycle.
+
+---
+
+### Example 2
+
+**Input**
+```text
+head = [1,2], pos = 0
+```
+
+**Output**
+```text
+true
+```
+
+**Explanation**
+
+```
+1 → 2
+↑   │
+└───┘
+```
+
+The tail connects back to the first node.
+
+---
+
+### Example 3
+
+**Input**
+```text
+head = [1], pos = -1
+```
+
+**Output**
+```text
+false
+```
+
+**Explanation**
+
+```
+1 → NULL
+```
+
+There is no cycle in the linked list.
+
+---
+
+## Constraints
+
+- `0 <= Number of nodes <= 10^4`
+- `-10^5 <= Node.val <= 10^5`
+- `pos` is either `-1` or a valid node index.
+
+---
+
+## Follow-up
+
+Can you solve this problem using **O(1)** extra memory?
+
+---
+
+## Approach
+
+The optimal solution uses **Floyd's Cycle Detection Algorithm (Tortoise and Hare)**.
+
+### Algorithm
+
+1. Initialize two pointers:
+   - **Slow** pointer moves one step at a time.
+   - **Fast** pointer moves two steps at a time.
+2. Traverse the linked list:
+   - If the fast pointer reaches `NULL`, there is no cycle.
+   - If the slow and fast pointers meet, a cycle exists.
+
+---
+
+## Complexity Analysis
+
+| Metric | Complexity |
+|---------|------------|
+| Time | **O(n)** |
+| Space | **O(1)** |
+
+- Each node is visited at most a constant number of times.
+- No extra data structures are used.
+
+---
+
+## Key Insight
+
+If a cycle exists:
+
+- The fast pointer eventually catches up with the slow pointer.
+- If no cycle exists, the fast pointer reaches the end of the list.
+
+This makes Floyd's algorithm the most efficient solution with constant extra space.
+
+
+
+Code: 
+
+
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        fast = head
+        slow = head
+        while fast is not None and fast.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                return True
+        return False
+
+    
+        
