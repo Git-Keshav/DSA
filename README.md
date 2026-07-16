@@ -39,6 +39,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-Keshav/DSA/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Git-Keshav/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
