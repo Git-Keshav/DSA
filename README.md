@@ -41,6 +41,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0001-two-sum](https://github.com/Git-Keshav/DSA/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +60,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Git-Keshav/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -80,6 +82,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Git-Keshav/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Git-Keshav/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
