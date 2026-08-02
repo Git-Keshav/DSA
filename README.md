@@ -43,6 +43,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,11 +63,13 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Git-Keshav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -178,4 +181,5 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
