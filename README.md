@@ -197,4 +197,16 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Git-Keshav/DSA/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
