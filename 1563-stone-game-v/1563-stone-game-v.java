@@ -8,17 +8,28 @@ class Solution {
         return dfs(stoneValue, 0, n - 1, prefixSum);
     }
     
-    private int dfs(int[] stoneValue, int left, int right, int[] prefixSum) {
-        if (left == right) return 0;
-        if (df[left][right] != 0) return df[left][right];
-        int ans = 0;
-        for (int i = left; i < right; i++) {
-            int leftSum = prefixSum[i + 1] - prefixSum[left];
-            int rightSum = prefixSum[right + 1] - prefixSum[i + 1];
-            if (leftSum < rightSum) ans = Math.max(ans, leftSum + dfs(stoneValue, left, i, prefixSum));
-            else if (leftSum > rightSum) ans = Math.max(ans, rightSum + dfs(stoneValue, i + 1, right, prefixSum));
-            else ans = Math.max(ans, leftSum + Math.max(dfs(stoneValue, left, i, prefixSum), dfs(stoneValue, i + 1, right, prefixSum)));
+    private int dfs(int[] stoneValue, int l, int r, int[] prefixSum) {
+        if (l == r) {
+            return 0;
         }
-        return df[left][right] = ans;
+        if (df[l][r] != 0){
+            return df[l][r];
+        }
+
+        int ans = 0;
+        for (int i = l; i < r; i++) {
+            int lSum = prefixSum[i + 1] - prefixSum[l];
+            int rSum = prefixSum[r + 1] - prefixSum[i + 1];
+
+            if (lSum < rSum){
+                ans = Math.max(ans, lSum + dfs(stoneValue, l, i, prefixSum));
+            }else if (lSum > rSum){
+                ans = Math.max(ans, rSum + dfs(stoneValue, i + 1, r, prefixSum));
+            }
+            else{
+                ans = Math.max(ans, lSum + Math.max(dfs(stoneValue, l, i, prefixSum), dfs(stoneValue, i + 1, r, prefixSum)));
+            }
+        }
+        return df[l][r] = ans;
     }
 }
