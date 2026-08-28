@@ -132,6 +132,7 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Git-Keshav/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Git-Keshav/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -193,6 +194,7 @@ A collection of my LeetCode solutions organized by topic.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Git-Keshav/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Git-Keshav/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of my LeetCode solutions organized by topic.
 | [3499-maximize-active-section-with-trade-i](https://github.com/Git-Keshav/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Git-Keshav/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Segment Tree
 |  |
 | ------- |
