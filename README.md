@@ -157,6 +157,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Git-Keshav/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -325,4 +326,8 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Git-Keshav/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
