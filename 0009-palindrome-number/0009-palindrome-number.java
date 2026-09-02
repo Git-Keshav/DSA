@@ -6,7 +6,7 @@ class Solution {
 
         int rev = 0;
         int cp = x;
-        while(x>0){
+        while(x != 0){
             rev = (rev * 10) + (x % 10);
             x /= 10;
         }
