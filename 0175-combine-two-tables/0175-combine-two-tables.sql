@@ -1,11 +1,11 @@
-SELECT 
+SELECT
     p.firstname,
     p.lastname,
     a.city,
     a.state
-FROM 
+FROM
     Person p 
-LEFT JOIN 
-    Address a 
+LEFT JOIN
+    Address a
 ON 
     p.personId = a.personID;
