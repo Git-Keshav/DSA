@@ -356,4 +356,8 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Git-Keshav/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
