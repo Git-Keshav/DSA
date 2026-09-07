@@ -39,6 +39,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-Keshav/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Git-Keshav/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
@@ -176,6 +177,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
