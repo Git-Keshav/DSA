@@ -317,6 +317,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-Keshav/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -366,4 +367,12 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Git-Keshav/DSA/tree/master/0175-combine-two-tables) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-Keshav/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-Keshav/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
