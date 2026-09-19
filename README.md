@@ -126,6 +126,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Git-Keshav/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Git-Keshav/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -204,6 +205,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -426,4 +428,8 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
