@@ -61,6 +61,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Git-Keshav/DSA/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/Git-Keshav/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Git-Keshav/DSA/tree/master/2029-stone-game-ix) |
@@ -292,6 +293,7 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
