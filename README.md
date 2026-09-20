@@ -89,6 +89,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-Keshav/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Git-Keshav/DSA/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Git-Keshav/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -184,6 +185,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Git-Keshav/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -244,6 +246,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Git-Keshav/DSA/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Git-Keshav/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Git-Keshav/DSA/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Git-Keshav/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Git-Keshav/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
