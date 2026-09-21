@@ -45,6 +45,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0009-palindrome-number](https://github.com/Git-Keshav/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Git-Keshav/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +183,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0042-trapping-rain-water](https://github.com/Git-Keshav/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-Keshav/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Git-Keshav/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
