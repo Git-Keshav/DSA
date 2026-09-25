@@ -142,6 +142,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0009-palindrome-number](https://github.com/Git-Keshav/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Git-Keshav/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Git-Keshav/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -362,6 +363,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Git-Keshav/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Git-Keshav/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
