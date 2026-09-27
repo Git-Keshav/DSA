@@ -144,6 +144,7 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0007-reverse-integer](https://github.com/Git-Keshav/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Git-Keshav/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Git-Keshav/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Git-Keshav/DSA/tree/master/0326-power-of-three) |
@@ -373,6 +374,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Git-Keshav/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Git-Keshav/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Git-Keshav/DSA/tree/master/3483-unique-3-digit-even-numbers) |
