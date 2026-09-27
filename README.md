@@ -39,6 +39,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-Keshav/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Git-Keshav/DSA/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -234,6 +235,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
