@@ -46,6 +46,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Git-Keshav/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
@@ -240,6 +241,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Git-Keshav/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
