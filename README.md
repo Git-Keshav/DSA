@@ -54,6 +54,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
@@ -243,6 +244,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
