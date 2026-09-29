@@ -58,6 +58,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
@@ -249,6 +250,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
