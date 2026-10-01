@@ -49,6 +49,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Git-Keshav/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Git-Keshav/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
@@ -253,6 +254,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
@@ -285,6 +287,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-Keshav/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -461,6 +464,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Git-Keshav/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Git-Keshav/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
