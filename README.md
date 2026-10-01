@@ -173,6 +173,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Git-Keshav/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Git-Keshav/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-Keshav/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1872-stone-game-viii](https://github.com/Git-Keshav/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Git-Keshav/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Git-Keshav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -342,6 +344,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Git-Keshav/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Git-Keshav/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1927-sum-game](https://github.com/Git-Keshav/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Git-Keshav/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Git-Keshav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
