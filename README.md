@@ -61,6 +61,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Git-Keshav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
@@ -111,6 +112,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0217-contains-duplicate](https://github.com/Git-Keshav/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Git-Keshav/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Git-Keshav/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Git-Keshav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Git-Keshav/DSA/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Git-Keshav/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -295,6 +297,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Git-Keshav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-Keshav/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
