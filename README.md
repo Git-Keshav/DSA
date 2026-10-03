@@ -88,6 +88,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1872-stone-game-viii](https://github.com/Git-Keshav/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Git-Keshav/DSA/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Git-Keshav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Git-Keshav/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -252,6 +253,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1424-diagonal-traverse-ii](https://github.com/Git-Keshav/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-Keshav/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Git-Keshav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Git-Keshav/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -290,6 +292,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Git-Keshav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
