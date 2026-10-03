@@ -80,6 +80,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Git-Keshav/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1528-shuffle-string](https://github.com/Git-Keshav/DSA/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/Git-Keshav/DSA/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
@@ -341,6 +342,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Git-Keshav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Git-Keshav/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1528-shuffle-string](https://github.com/Git-Keshav/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Git-Keshav/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Git-Keshav/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Git-Keshav/DSA/tree/master/1927-sum-game) |
