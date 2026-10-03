@@ -90,6 +90,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Git-Keshav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Git-Keshav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Git-Keshav/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Git-Keshav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Git-Keshav/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -189,6 +190,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2235-add-two-integers](https://github.com/Git-Keshav/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Git-Keshav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Git-Keshav/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Git-Keshav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Git-Keshav/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
