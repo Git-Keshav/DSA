@@ -58,6 +58,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Git-Keshav/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Git-Keshav/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Git-Keshav/DSA/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Git-Keshav/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
@@ -388,6 +389,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0054-spiral-matrix](https://github.com/Git-Keshav/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Git-Keshav/DSA/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/Git-Keshav/DSA/tree/master/0661-image-smoother) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
