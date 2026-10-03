@@ -68,6 +68,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Git-Keshav/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Git-Keshav/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Git-Keshav/DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Git-Keshav/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -382,6 +383,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Git-Keshav/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Git-Keshav/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
