@@ -130,6 +130,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Git-Keshav/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Git-Keshav/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/Git-Keshav/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Git-Keshav/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -347,6 +348,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1528-shuffle-string](https://github.com/Git-Keshav/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Git-Keshav/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Git-Keshav/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Git-Keshav/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Git-Keshav/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Git-Keshav/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/Git-Keshav/DSA/tree/master/2351-first-letter-to-appear-twice) |
