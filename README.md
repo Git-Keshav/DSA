@@ -337,6 +337,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0032-longest-valid-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Git-Keshav/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Git-Keshav/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Git-Keshav/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Git-Keshav/DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Git-Keshav/DSA/tree/master/0443-string-compression) |
@@ -497,6 +498,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Git-Keshav/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -508,6 +510,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Git-Keshav/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Git-Keshav/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
