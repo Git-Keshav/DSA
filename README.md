@@ -87,6 +87,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Git-Keshav/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Git-Keshav/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Git-Keshav/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/Git-Keshav/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-Keshav/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Git-Keshav/DSA/tree/master/2029-stone-game-ix) |
@@ -303,6 +304,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1539-kth-missing-positive-number](https://github.com/Git-Keshav/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Git-Keshav/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Git-Keshav/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
