@@ -55,6 +55,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Git-Keshav/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Git-Keshav/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,6 +161,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0115-distinct-subsequences](https://github.com/Git-Keshav/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Git-Keshav/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Git-Keshav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Git-Keshav/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Git-Keshav/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -295,6 +297,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0162-find-peak-element](https://github.com/Git-Keshav/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Git-Keshav/DSA/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
@@ -332,6 +335,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Git-Keshav/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Git-Keshav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-Keshav/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -401,6 +405,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Git-Keshav/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Git-Keshav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Git-Keshav/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
