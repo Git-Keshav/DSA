@@ -96,6 +96,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2029-stone-game-ix](https://github.com/Git-Keshav/DSA/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Git-Keshav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Git-Keshav/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Git-Keshav/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Git-Keshav/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -319,6 +320,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Git-Keshav/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Git-Keshav/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Git-Keshav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Git-Keshav/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Git-Keshav/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
