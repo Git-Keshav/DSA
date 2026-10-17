@@ -103,6 +103,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Git-Keshav/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Git-Keshav/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Git-Keshav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Git-Keshav/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Git-Keshav/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -334,6 +335,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2187-minimum-time-to-complete-trips](https://github.com/Git-Keshav/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Git-Keshav/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Git-Keshav/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Git-Keshav/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -365,6 +367,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Git-Keshav/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Git-Keshav/DSA/tree/master/1872-stone-game-viii) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Git-Keshav/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3904-smallest-stable-index-ii](https://github.com/Git-Keshav/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -443,6 +446,7 @@ A collection of my LeetCode solutions organized by topic.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Git-Keshav/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Git-Keshav/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-Keshav/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Git-Keshav/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Git-Keshav/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Git-Keshav/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -586,6 +590,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Git-Keshav/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Git-Keshav/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Git-Keshav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -636,6 +641,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Git-Keshav/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Bracket Sequences
 |  |
 | ------- |
