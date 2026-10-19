@@ -65,6 +65,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0661-image-smoother](https://github.com/Git-Keshav/DSA/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Git-Keshav/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Git-Keshav/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
@@ -471,6 +472,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Git-Keshav/DSA/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Git-Keshav/DSA/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/Git-Keshav/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
