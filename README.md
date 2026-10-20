@@ -67,6 +67,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Git-Keshav/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Git-Keshav/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Git-Keshav/DSA/tree/master/0877-stone-game) |
@@ -325,6 +326,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0410-split-array-largest-sum](https://github.com/Git-Keshav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Git-Keshav/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Git-Keshav/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
@@ -641,6 +643,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Ternary Search
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 ## Newton's Method
 |  |
