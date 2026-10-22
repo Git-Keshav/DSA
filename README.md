@@ -138,6 +138,7 @@ A collection of my LeetCode solutions organized by topic.
 | [3876-construct-uniform-parity-array-ii](https://github.com/Git-Keshav/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Git-Keshav/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Git-Keshav/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Git-Keshav/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
