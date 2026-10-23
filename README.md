@@ -131,6 +131,7 @@ A collection of my LeetCode solutions organized by topic.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Git-Keshav/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Git-Keshav/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Git-Keshav/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Git-Keshav/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Git-Keshav/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Git-Keshav/DSA/tree/master/3731-find-missing-elements) |
@@ -522,6 +523,7 @@ A collection of my LeetCode solutions organized by topic.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Git-Keshav/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Git-Keshav/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Git-Keshav/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
