@@ -78,6 +78,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Git-Keshav/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Git-Keshav/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Git-Keshav/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Git-Keshav/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -491,6 +492,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0766-toeplitz-matrix](https://github.com/Git-Keshav/DSA/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Git-Keshav/DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Git-Keshav/DSA/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Git-Keshav/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Git-Keshav/DSA/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Git-Keshav/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
@@ -575,6 +577,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Git-Keshav/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Git-Keshav/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -582,6 +585,7 @@ A collection of my LeetCode solutions organized by topic.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Git-Keshav/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Git-Keshav/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Git-Keshav/DSA/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Git-Keshav/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Git-Keshav/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -627,6 +631,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Git-Keshav/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Git-Keshav/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Git-Keshav/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
