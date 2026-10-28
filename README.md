@@ -95,6 +95,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1539-kth-missing-positive-number](https://github.com/Git-Keshav/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Git-Keshav/DSA/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Git-Keshav/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1652-defuse-the-bomb](https://github.com/Git-Keshav/DSA/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Git-Keshav/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Git-Keshav/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -624,6 +625,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Git-Keshav/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Git-Keshav/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1652-defuse-the-bomb](https://github.com/Git-Keshav/DSA/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Git-Keshav/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Git-Keshav/DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Git-Keshav/DSA/tree/master/2528-maximize-the-minimum-powered-city) |
