@@ -43,6 +43,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0035-search-insert-position](https://github.com/Git-Keshav/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Git-Keshav/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Git-Keshav/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Git-Keshav/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Git-Keshav/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Git-Keshav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Git-Keshav/DSA/tree/master/0075-sort-colors) |
@@ -286,6 +287,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Git-Keshav/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Git-Keshav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Git-Keshav/DSA/tree/master/0217-contains-duplicate) |
@@ -704,6 +706,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Git-Keshav/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Git-Keshav/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
