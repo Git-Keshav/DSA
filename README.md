@@ -559,6 +559,7 @@ A collection of my LeetCode solutions organized by topic.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Git-Keshav/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Git-Keshav/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Git-Keshav/DSA/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Git-Keshav/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Git-Keshav/DSA/tree/master/0509-fibonacci-number) |
@@ -659,6 +660,7 @@ A collection of my LeetCode solutions organized by topic.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Git-Keshav/DSA/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Git-Keshav/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Interactive
 |  |
