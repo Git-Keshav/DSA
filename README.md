@@ -87,6 +87,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Git-Keshav/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Git-Keshav/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Git-Keshav/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Git-Keshav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Git-Keshav/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Git-Keshav/DSA/tree/master/1406-stone-game-iii) |
 | [1424-diagonal-traverse-ii](https://github.com/Git-Keshav/DSA/tree/master/1424-diagonal-traverse-ii) |
@@ -296,6 +297,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0283-move-zeroes](https://github.com/Git-Keshav/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Git-Keshav/DSA/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Git-Keshav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Git-Keshav/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Git-Keshav/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Git-Keshav/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -314,6 +316,7 @@ A collection of my LeetCode solutions organized by topic.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Git-Keshav/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Git-Keshav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Git-Keshav/DSA/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Git-Keshav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/Git-Keshav/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Git-Keshav/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Git-Keshav/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -364,6 +367,7 @@ A collection of my LeetCode solutions organized by topic.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Git-Keshav/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Git-Keshav/DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Git-Keshav/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Git-Keshav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Git-Keshav/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Git-Keshav/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Git-Keshav/DSA/tree/master/1539-kth-missing-positive-number) |
